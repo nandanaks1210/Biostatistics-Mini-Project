@@ -1,5 +1,4 @@
-# Biostatistics-Mini-Project
-Analysis of Heart Disease Risk Based on Chest Pain Types and Maximum Heart Rate
+# Analysis of Heart Disease Risk Based on Chest Pain Types and Maximum Heart Rate
 
 Project Overview
 
